@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map height="30" width="30">
+    <game seed="1337" rounds="2000"/>
+    <symbols>
+        <symbol terrain="NORMAL" type="TERRAIN" character="n"/>
+        <symbol terrain="VOID" type="TERRAIN" character="v"/>
+        <symbol team="A" type="HQ" character="a"/>
+        <symbol team="B" type="HQ" character="b"/>
+        <symbol team="A" type="TOWER" character="A"/>
+        <symbol team="B" type="TOWER" character="B"/>
+    </symbols>
+    <data>
+<![CDATA[
+n50 n50 n50 n50 n50 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n50 n50 n50 n50 n50 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n50 n50 n50 n50 n50 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n50 n50 n50 n50 n50 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n50 n50 n50 n50 n50 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n20 n20 n20 n20 A1 v1 v1 v1 v1 v1 A1 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n20 n20 n20 n20 n20 n20 n20 v1 n20 n20 n20 n20 n50 n50 n50 n50 n50 n50 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n20 n20 n20 n20 A1 v1 v1 a1 v1 v1 A1 n20 n50 n50 n50 n50 n50 n50 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n20 n20 n20 n20 n20 n20 n20 v1 n20 n20 n20 n20 n50 n50 n50 n50 n50 n50 n20 B1 v1 v1 v1 v1 v1 B1 n20 n20 n20 n20
+n20 n20 n20 n20 A1 v1 v1 v1 v1 v1 A1 n20 n50 n50 n50 n50 n50 n50 n20 n20 n20 n20 v1 n20 n20 n20 n20 n20 n20 n20
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n50 n50 n50 n50 n50 n50 n20 B1 v1 v1 b1 v1 v1 B1 n20 n20 n20 n20
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n50 n50 n50 n50 n50 n50 n20 n20 n20 n20 v1 n20 n20 n20 n20 n20 n20 n20
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 B1 v1 v1 v1 v1 v1 B1 n20 n20 n20 n20
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n50 n50 n50 n50 n50
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n50 n50 n50 n50 n50
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n50 n50 n50 n50 n50
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n50 n50 n50 n50 n50
+n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n20 n50 n50 n50 n50 n50
+]]>
+    </data>
+</map>
